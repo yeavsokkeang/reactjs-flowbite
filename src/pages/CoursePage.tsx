@@ -1,5 +1,7 @@
+import CourseListing from "./CourseListing";
+
 const CoursePage = () => {
-  return <div>CoursePage</div>;
+  return <CourseListing />;
 };
 
 export default CoursePage;
